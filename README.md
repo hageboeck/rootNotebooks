@@ -6,3 +6,6 @@ Notebook showing how RooFit's batch computation feature can speed up fits in ROO
 
 ## BinSamplingPdf
 Notebook showing how to reduce the bias in binned fits that occurs when a PDF is strongly curved in a bin. Needs ROOT 6.24.
+
+## Recovery from invalid parameters
+Notebook showing two fits using an unstable fit model. Starting from ROOT 6.24, the fitter can recover from instabilities.
