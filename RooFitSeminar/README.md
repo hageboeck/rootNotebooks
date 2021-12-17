@@ -9,6 +9,8 @@ Demonstrate basic RooFit functionality.
 ## CreateCMSDatasetWithRDF.ipynb
 RDataFrame analysis demo, which creates a RooFit dataset of dimuon events from CMS open data.
 
+![Dimuon spectrum](spectrum.png)
+
 ## FitCMSDataset.ipynb
 Fit the Z peak in the above dataset using a Bukin function and a background model of Bernstein polynomials.
 
